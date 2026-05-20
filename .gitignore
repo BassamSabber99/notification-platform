@@ -1,0 +1,42 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build results
+bin/
+obj/
+.vs/
+.vscode/
+
+# Dependencies
+node_modules/
+packages/
+.nuget/
+
+# Logs
+logs/
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Environment
+.env
+.env.local
+appsettings.*.json
+firebase-credentials.json
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
